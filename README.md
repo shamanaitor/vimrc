@@ -108,6 +108,7 @@ I recommend reading the docs of these plugins to understand them better. Each pl
 * [vim-zenroom2](https://github.com/amix/vim-zenroom2) Remove all clutter and focus only on the essential. Similar to iA Writer or Write Room
 * [gist-vim](https://github.com/mattn/gist-vim) Easily create gists from Vim using the `:Gist` command
 * [vim-indent-guides](https://github.com/nathanaelkane/vim-indent-guides) Is a plugin for visually displaying indent levels in Vim
+* [vim-terraform](https://github.com/hashivim/vim-terraform) This plugin adds a `:Terraform` command that runs terraform, with tab completion of subcommands. It also sets up `*.hcl`, `*.tf`, `*.tfvars`, `.terraformrc` and `terraform.rc` files to be highlighted as HCL and `*.tfstate` as JSON.
 * [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.
 
 
